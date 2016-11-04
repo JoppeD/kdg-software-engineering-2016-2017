@@ -27,8 +27,8 @@
 	- github: https://github.com/samdemeyer/SoftwareEngineeringOpdrachten.git
 
 - Demulder Joppe
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: joppe.demulder@student.kdg.be
+	- github: https://github.com/JoppeD/software-engineering-oplossingen
 
 - De Ridder Sam
 	- e-mailadres: naam@student.kdg.be
